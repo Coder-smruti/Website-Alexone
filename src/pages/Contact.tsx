@@ -4,7 +4,7 @@ import { Mail, Phone, MapPin, Instagram, Facebook, Linkedin } from 'lucide-react
 
 export default function Contact() {
   return (
-    <div className="pt-32 pb-20 px-6">
+        <div className="pt-32 pb-20 px-6 bg-luxury-black min-h-screen">
       <div className="container mx-auto">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-20">
           {/* Contact Info */}
