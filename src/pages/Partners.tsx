@@ -4,7 +4,7 @@ import { MATERIALS } from '../constants';
 
 export default function Partners() {
   return (
-    <div className="pt-32 pb-20 px-6">
+      <div className="pt-32 pb-20 px-6 bg-luxury-black min-h-screen">
       <div className="container mx-auto">
         <SectionHeading 
           title="Our Partners" 
