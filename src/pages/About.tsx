@@ -11,7 +11,7 @@ export default function About() {
   ];
 
   return (
-    <div className="pt-32 pb-20 px-6">
+      <div className="pt-32 pb-20 px-6 bg-luxury-black min-h-screen">
       <div className="container mx-auto">
         {/* Hero */}
         <div className="max-w-4xl mb-32">
